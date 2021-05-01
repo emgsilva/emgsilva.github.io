@@ -22,12 +22,13 @@ show_excerpts: false
 
 # pages to show on header
 header_pages:
-  - about.html
+  - consulting.html
+  - projects/sociotechnical-architecture/sociotechnical-architecture.html
   - articles.html 
   - tla_insights.html
-  - projects/sociotechnical-architecture/sociotechnical-architecture.html
-  - projects.html
+  # - projects.html
   - talks.html
+  - about.html
 
 # Build settings
 markdown: CommonMarkGhPages
